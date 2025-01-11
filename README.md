@@ -1,7 +1,3 @@
-Here’s a more polished and concise **README** for your project:
-
----
-
 # **ML Sign Language Project**
 
 This repository contains our final project for **CS 4641: Machine Learning**. Below is an overview of the key files and directories relevant to our work.
